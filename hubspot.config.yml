@@ -1,0 +1,14 @@
+defaultPortal: the-number-company
+portals:
+  - name: the-number-company
+    portalId: 342177541
+    env: prod
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPX6ouCSMxISQlNQMl8kQEwrAgUACAkCMAFIGIXulKMBILL3-yYo7ukMMhR3RJR7Uq85bNptZHAmp7sXk5HpUDoYQlNQMl8kQEwrAgsACBMGBpxIAQEBpQGxQhResHAZDnc0_EjcAN_gPsotMGvIsEoDbmEzUgBaAGABaLL3-yZwAHgA
+        expiresAt: '2025-09-09T01:13:14.406Z'
+    accountType: STANDARD
+    personalAccessKey: >-
+      CiRuYTMtYzViOS1lNGJlLTRhODItOTkwYy03ZWI2OGE5ZWQ3OTkQhe6UowEYsvf7JioZAAXmkYK2pUBdKu8ItVDV8OkEGbbOkWkpjUoDbmEz
